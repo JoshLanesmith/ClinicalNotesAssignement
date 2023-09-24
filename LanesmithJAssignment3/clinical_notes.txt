@@ -1,0 +1,2 @@
+1|Bob Smith|2023-07-27 2:03:18 AM|Numb thumb;Heart Burn|He has issues.;I will help.;;Boo!;;RR: 10, RR 13, RR: 18;;T: 35.2, t 37, T 37.6
+2|Judy Walden|1958-07-27 2:03:18 AM||More Notes for Judy;;HR: 55, HR 80, HR 110;;BP: 88/56, BP 120/70
